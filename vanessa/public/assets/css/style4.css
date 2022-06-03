@@ -1,0 +1,72 @@
+.aro12_bikes6 img {
+    width: 297px;
+    height: 197px;
+}
+
+.aro12_bikes7 img {
+    width: 297px;
+    height: 197px;
+}
+
+.aro12_bikes8 img {
+    width: 297px;
+    height: 197px;
+}
+
+.aro12_bikes9 img {
+    width: 297px;
+    height: 197px;
+}
+
+.aro16-bikes1, .aro16-bikes2,.aro16-bikes3,.aro16-bikes4,.aro16-bikes5,.aro16-bikes6,.aro16-bikes7,.aro16-bikes8,.aro16-bikes9,.aro16-bikes10,.aro16-bikes11,.aro16-bikes12, img {
+    height: 198px;
+}
+
+.linha-botoes {
+    margin-top: 25px;
+}
+
+.aro24_bikes2 img {
+    height: 244px;
+    margin-top: -28px;
+    width: 107%;
+    max-width: 200%;
+}
+
+.aro24_bikes5 img {
+    height: 244px;
+    width: 107%;
+    max-width: 200%;
+}
+
+.aro24_bikes3 img {
+    height: 212px;
+}
+
+.aro26_bikes2 {
+    margin-top: 28px;
+}
+
+.aro26_bikes2 img {
+    height: 169px;
+}
+
+.bikes-1 img:hover, .bikes-2 img:hover, .bikes-3 img:hover, .bikes-4 img:hover, .bikes-5 img:hover, .bikes-6 img:hover {
+    filter: opacity(50%);
+}
+
+.col-md-4:hover .descricao {
+    display: block;
+}
+
+.descricao {
+    display: none;
+    color: red;
+    width: 100%;
+    font-weight: bold;
+    font-size: 30px;
+    position: relative;
+    top: -4em;
+    left: 4em;
+    pointer-events: none;
+}

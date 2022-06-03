@@ -1,0 +1,19 @@
+{
+    "name": "vanes/vanessa",
+    "description": "Web 2 PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/",
+            "Model\\": "src/model/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vanessa",
+            "email": "vanessa-braga00@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
